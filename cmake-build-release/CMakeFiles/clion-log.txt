@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" "C:\Users\lucas\OneDrive\Bureaublad\school\GI - Jaar2\kgdev herkansing\sfml blueprint\sfml blueprint"
+-- Found SFML 2.5.1 in C:/Users/lucas/OneDrive/Bureaublad/school/GI - Jaar2/kgdev herkansing/sfml blueprint/sfml blueprint/libs/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/lucas/OneDrive/Bureaublad/school/GI - Jaar2/kgdev herkansing/sfml blueprint/sfml blueprint/cmake-build-release

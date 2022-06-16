@@ -1,0 +1,5 @@
+# ninja log v5
+9	1743	675089393	CMakeFiles/BOOP.dir/src/GUI/Widgets/Button.cpp.obj	6070d3b1009ff52a
+17	1865	675089393	CMakeFiles/BOOP.dir/src/Statemachine/Gamestate.cpp.obj	404c364385d580eb
+6	1970	675089393	CMakeFiles/BOOP.dir/src/GUI/Widgets/Menu.cpp.obj	e4f6dea79b6e931b
+30	2000	675089393	CMakeFiles/BOOP.dir/main.cpp.obj	9727ae9c37e0b8b4

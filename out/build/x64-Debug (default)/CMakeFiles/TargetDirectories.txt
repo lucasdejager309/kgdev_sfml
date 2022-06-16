@@ -1,0 +1,3 @@
+C:/Users/lucas/OneDrive/Bureaublad/school/GI - Jaar2/kgdev herkansing/sfml blueprint/sfml blueprint/out/build/x64-Debug (default)/CMakeFiles/BOOP.dir
+C:/Users/lucas/OneDrive/Bureaublad/school/GI - Jaar2/kgdev herkansing/sfml blueprint/sfml blueprint/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/lucas/OneDrive/Bureaublad/school/GI - Jaar2/kgdev herkansing/sfml blueprint/sfml blueprint/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
